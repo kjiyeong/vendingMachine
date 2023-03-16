@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: com.sk.vendingmachine.dao.VendingMachineDaoFileImplTest
+-------------------------------------------------------------------------------
+Tests run: 2, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.315 sec <<< FAILURE! - in com.sk.vendingmachine.dao.VendingMachineDaoFileImplTest
+testGetAllAndGetAvailableItem  Time elapsed: 0.026 sec  <<< FAILURE!
+org.opentest4j.AssertionFailedError: All item list should contain item 1 ==> expected: <true> but was: <false>
+	at com.sk.vendingmachine.dao.VendingMachineDaoFileImplTest.testGetAllAndGetAvailableItem(VendingMachineDaoFileImplTest.java:100)
+

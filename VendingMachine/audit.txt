@@ -1,0 +1,369 @@
+2021-08-17T16:35:16.040587400 : === START OF TRANSACTION ===
+2021-08-17T16:47:53.249907800 : === START OF TRANSACTION ===
+2021-08-17T17:04:21.742528900 : === START OF TRANSACTION ===
+2021-08-17T18:31:27.221150 : === START OF TRANSACTION ===
+2021-08-17T18:38:58.323044600 : === START OF TRANSACTION ===
+2021-08-17T18:42:19.861580500 : === START OF TRANSACTION ===
+2021-08-17T18:42:43.090858700 : === START OF TRANSACTION ===
+2021-08-17T18:44:17.069555300 : === END OF TRANSACTION ===
+2021-08-17T18:45:54.387930 : === START OF TRANSACTION ===
+2021-08-17T18:46:14.078168700 : === END OF TRANSACTION ===
+2021-08-17T18:46:24.896478600 : === START OF TRANSACTION ===
+2021-08-17T18:46:35.304907 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T18:46:35.304907 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T18:46:35.304907 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T18:46:35.304907 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T18:47:09.938263100 : User inserted 0.25. Balance updated to $0.66
+2021-08-17T18:47:09.938263100 : User inserted 0.10. Balance updated to $0.76
+2021-08-17T18:47:09.938263100 : User inserted 0.05. Balance updated to $0.81
+2021-08-17T18:47:09.938263100 : User inserted 0.01. Balance updated to $0.82
+2021-08-17T18:47:41.494931800 : Insufficient Funds Exception:The user attempted to purchase Coca ColaThe User only have $ 0.82 couldn't afford any amount in the vending machine.
+2021-08-17T18:47:54.876237700 : === END OF TRANSACTION ===
+2021-08-17T18:53:45.232992400 : === START OF TRANSACTION ===
+2021-08-17T18:53:58.920811900 : User inserted 0.01. Balance updated to $0.01
+2021-08-17T18:54:05.795433400 : User inserted 0.05. Balance updated to $0.06
+2021-08-17T18:54:05.795433400 : User inserted 0.01. Balance updated to $0.07
+2021-08-17T18:54:13.074441800 : User inserted 0.10. Balance updated to $0.17
+2021-08-17T18:54:13.074441800 : User inserted 0.05. Balance updated to $0.22
+2021-08-17T18:54:13.074441800 : User inserted 0.01. Balance updated to $0.23
+2021-08-17T18:54:17.018918700 : User inserted 0.25. Balance updated to $0.48
+2021-08-17T18:54:17.018918700 : User inserted 0.10. Balance updated to $0.58
+2021-08-17T18:54:17.018918700 : User inserted 0.05. Balance updated to $0.63
+2021-08-17T18:54:17.018918700 : User inserted 0.01. Balance updated to $0.64
+2021-08-17T18:54:28.550615500 : User inserted 0.25. Balance updated to $0.89
+2021-08-17T18:54:28.550615500 : User inserted 0.10. Balance updated to $0.99
+2021-08-17T18:54:28.551615800 : User inserted 0.05. Balance updated to $1.04
+2021-08-17T18:54:28.552614800 : User inserted 0.01. Balance updated to $1.05
+2021-08-17T18:54:40.275186600 : User successfully bought Coca Cola $1.00 Change: 0.05
+2021-08-17T18:55:02.786877600 : === END OF TRANSACTION ===
+2021-08-17T18:57:30.464853100 : === START OF TRANSACTION ===
+2021-08-17T18:57:47.775932700 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T18:57:47.775932700 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T18:57:47.775932700 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T18:57:47.775932700 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T19:39:30.598739300 : === START OF TRANSACTION ===
+2021-08-17T19:39:38.068600100 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T19:39:38.068600100 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T19:39:38.068600100 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T19:39:38.068600100 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T19:39:49.483859700 : === END OF TRANSACTION ===
+2021-08-17T19:40:10.723083200 : === START OF TRANSACTION ===
+2021-08-17T19:40:20.500324900 : User inserted 0.10. Balance updated to $0.10
+2021-08-17T19:40:20.502323700 : User inserted 0.05. Balance updated to $0.15
+2021-08-17T19:40:20.503325300 : User inserted 0.01. Balance updated to $0.16
+2021-08-17T19:40:37.249249500 : === END OF TRANSACTION ===
+2021-08-17T19:40:42.292736100 : === START OF TRANSACTION ===
+2021-08-17T19:40:50.972541400 : User inserted 0.05. Balance updated to $0.05
+2021-08-17T19:40:50.972541400 : User inserted 0.01. Balance updated to $0.06
+2021-08-17T19:50:36.999094100 : === START OF TRANSACTION ===
+2021-08-17T19:50:57.361373800 : === END OF TRANSACTION ===
+2021-08-17T19:55:49.143703700 : === START OF TRANSACTION ===
+2021-08-17T19:56:05.464003300 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T19:56:05.464003300 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T19:56:05.464003300 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T19:56:05.464003300 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T19:56:07.432534400 : User inserted 0.25. Balance updated to $0.66
+2021-08-17T19:56:07.432534400 : User inserted 0.10. Balance updated to $0.76
+2021-08-17T19:56:07.432534400 : User inserted 0.05. Balance updated to $0.81
+2021-08-17T19:56:07.432534400 : User inserted 0.01. Balance updated to $0.82
+2021-08-17T19:56:08.960928500 : User inserted 0.25. Balance updated to $1.07
+2021-08-17T19:56:08.960928500 : User inserted 0.10. Balance updated to $1.17
+2021-08-17T19:56:08.960928500 : User inserted 0.05. Balance updated to $1.22
+2021-08-17T19:56:08.960928500 : User inserted 0.01. Balance updated to $1.23
+2021-08-17T19:56:10.277370500 : User inserted 0.25. Balance updated to $1.48
+2021-08-17T19:56:10.277370500 : User inserted 0.10. Balance updated to $1.58
+2021-08-17T19:56:10.277370500 : User inserted 0.05. Balance updated to $1.63
+2021-08-17T19:56:10.277370500 : User inserted 0.01. Balance updated to $1.64
+2021-08-17T19:56:41.623084600 : User successfully bought Coca Cola $1.00 Change: 0.64
+2021-08-17T19:59:28.345488200 : === START OF TRANSACTION ===
+2021-08-17T19:59:41.190705600 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T19:59:41.190705600 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T19:59:41.190705600 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T19:59:41.190705600 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T19:59:45.132025500 : User inserted 0.25. Balance updated to $0.66
+2021-08-17T19:59:45.132025500 : User inserted 0.10. Balance updated to $0.76
+2021-08-17T19:59:45.132025500 : User inserted 0.05. Balance updated to $0.81
+2021-08-17T19:59:45.132025500 : User inserted 0.01. Balance updated to $0.82
+2021-08-17T19:59:48.306756600 : User inserted 0.05. Balance updated to $0.87
+2021-08-17T19:59:48.306756600 : User inserted 0.01. Balance updated to $0.88
+2021-08-17T19:59:50.491839800 : User inserted 0.10. Balance updated to $0.98
+2021-08-17T19:59:50.491839800 : User inserted 0.05. Balance updated to $1.03
+2021-08-17T19:59:50.491839800 : User inserted 0.01. Balance updated to $1.04
+2021-08-17T20:00:08.888996400 : User successfully bought Grandma Juice $0.55 Change: 0.49
+2021-08-17T20:00:57.958533200 : === START OF TRANSACTION ===
+2021-08-17T20:01:08.620006700 : === END OF TRANSACTION ===
+2021-08-17T20:51:39.916946800 : === START OF TRANSACTION ===
+2021-08-17T20:51:55.183917500 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T20:51:55.184918200 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T20:51:55.185917400 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T20:51:55.186917500 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T21:00:09.790772800 : === START OF TRANSACTION ===
+2021-08-17T21:00:24.202784300 : User inserted 0.25. Balance updated to $0.20
+2021-08-17T21:00:24.203782100 : User inserted 0.10. Balance updated to $0.25
+2021-08-17T21:00:24.204739600 : User inserted 0.05. Balance updated to $0.26
+2021-08-17T21:00:24.205739500 : User inserted 0.01. Balance updated to $0.26
+2021-08-17T21:00:48.708687200 : User inserted 0.10. Balance updated to $0.31
+2021-08-17T21:00:48.709691 : User inserted 0.05. Balance updated to $0.32
+2021-08-17T21:00:48.709691 : User inserted 0.01. Balance updated to $0.32
+2021-08-17T21:03:13.623105300 : === START OF TRANSACTION ===
+2021-08-17T21:03:25.915744100 : User inserted 0.25. Balance updated to $0.19
+2021-08-17T21:03:25.916743300 : User inserted 0.10. Balance updated to $0.25
+2021-08-17T21:03:25.917743 : User inserted 0.05. Balance updated to $0.26
+2021-08-17T21:03:25.918743 : User inserted 0.01. Balance updated to $0.26
+2021-08-17T21:03:54.678382800 : === START OF TRANSACTION ===
+2021-08-17T21:04:02.847608600 : User inserted 0.10. Balance updated to $0.06
+2021-08-17T21:04:02.848607800 : User inserted 0.05. Balance updated to $0.07
+2021-08-17T21:04:02.849608100 : User inserted 0.01. Balance updated to $0.07
+2021-08-17T21:04:46.911518700 : === START OF TRANSACTION ===
+2021-08-17T21:04:58.606570700 : User inserted 0.25. Balance updated to $0.19
+2021-08-17T21:04:58.606570700 : User inserted 0.10. Balance updated to $0.28
+2021-08-17T21:04:58.607569900 : User inserted 0.05. Balance updated to $0.29
+2021-08-17T21:04:58.607569900 : User inserted 0.01. Balance updated to $0.29
+2021-08-17T21:05:28.543478600 : User inserted 0.10. Balance updated to $0.38
+2021-08-17T21:05:28.543478600 : User inserted 0.05. Balance updated to $0.39
+2021-08-17T21:05:28.544546500 : User inserted 0.01. Balance updated to $0.39
+2021-08-17T21:06:44.201047300 : === START OF TRANSACTION ===
+2021-08-17T21:06:50.730766500 : User inserted 0.25. Balance updated to $0.15
+2021-08-17T21:06:50.731765800 : User inserted 0.10. Balance updated to $0.24
+2021-08-17T21:06:50.733766 : User inserted 0.05. Balance updated to $0.25
+2021-08-17T21:06:50.733766 : User inserted 0.01. Balance updated to $0.25
+2021-08-17T21:07:08.425120600 : User inserted 0.10. Balance updated to $0.34
+2021-08-17T21:07:08.425120600 : User inserted 0.05. Balance updated to $0.35
+2021-08-17T21:07:08.426188900 : User inserted 0.01. Balance updated to $0.35
+2021-08-17T21:07:47.042522 : === START OF TRANSACTION ===
+2021-08-17T21:07:55.973111100 : User inserted 0.05. Balance updated to $0.01
+2021-08-17T21:07:55.974114500 : User inserted 0.01. Balance updated to $0.01
+2021-08-17T21:08:39.313546600 : === START OF TRANSACTION ===
+2021-08-17T21:08:46.280783800 : User inserted 0.05. Balance updated to $0.03
+2021-08-17T21:08:46.281771800 : User inserted 0.01. Balance updated to $0.04
+2021-08-17T21:09:07.409014600 : === START OF TRANSACTION ===
+2021-08-17T21:09:16.382165400 : User inserted 0.05. Balance updated to $0.04
+2021-08-17T21:09:16.383165200 : User inserted 0.01. Balance updated to $0.05
+2021-08-17T21:09:23.000942600 : User inserted 0.01. Balance updated to $0.06
+2021-08-17T21:09:28.362258300 : User inserted 0.10. Balance updated to $0.15
+2021-08-17T21:09:28.363234400 : User inserted 0.05. Balance updated to $0.19
+2021-08-17T21:09:28.363234400 : User inserted 0.01. Balance updated to $0.20
+2021-08-17T21:09:31.635998800 : User inserted 0.25. Balance updated to $0.35
+2021-08-17T21:09:31.636998200 : User inserted 0.10. Balance updated to $0.44
+2021-08-17T21:09:31.636998200 : User inserted 0.05. Balance updated to $0.48
+2021-08-17T21:09:31.637997600 : User inserted 0.01. Balance updated to $0.49
+2021-08-17T21:10:29.096341100 : === START OF TRANSACTION ===
+2021-08-17T21:10:35.194399400 : User inserted 0.25. Balance updated to $0.15
+2021-08-17T21:10:35.194399400 : User inserted 0.10. Balance updated to $0.24
+2021-08-17T21:10:35.195398500 : User inserted 0.05. Balance updated to $0.28
+2021-08-17T21:10:35.195398500 : User inserted 0.01. Balance updated to $0.29
+2021-08-17T21:31:34.634080900 : === START OF TRANSACTION ===
+2021-08-17T21:31:50.535230600 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T21:31:50.535230600 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T21:31:50.535230600 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T21:31:50.535230600 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T21:36:50.729859900 : === START OF TRANSACTION ===
+2021-08-17T21:44:26.604885300 : === START OF TRANSACTION ===
+2021-08-17T21:46:31.460600200 : === START OF TRANSACTION ===
+2021-08-17T21:47:24.677279800 : === START OF TRANSACTION ===
+2021-08-17T21:47:32.311090100 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T21:47:32.311090100 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T21:47:32.312088800 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T21:47:32.312088800 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T22:24:24.186004800 : === START OF TRANSACTION ===
+2021-08-17T22:24:31.914607100 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T22:24:31.914607100 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T22:24:31.915606500 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T22:24:31.915606500 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T22:37:58.543863500 : === START OF TRANSACTION ===
+2021-08-17T22:41:04.244622300 : === START OF TRANSACTION ===
+2021-08-17T22:41:13.671183600 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T22:41:13.671183600 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T22:41:13.671183600 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T22:41:13.671183600 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T22:43:36.922149400 : === START OF TRANSACTION ===
+2021-08-17T22:43:42.842541100 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T22:43:42.842541100 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T22:43:42.842541100 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T22:43:42.842541100 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T22:43:44.484961 : User inserted 0.25. Balance updated to $0.66
+2021-08-17T22:43:44.484961 : User inserted 0.10. Balance updated to $0.76
+2021-08-17T22:43:44.484961 : User inserted 0.05. Balance updated to $0.81
+2021-08-17T22:43:44.484961 : User inserted 0.01. Balance updated to $0.82
+2021-08-17T22:43:45.690150300 : User inserted 0.25. Balance updated to $1.07
+2021-08-17T22:43:45.690150300 : User inserted 0.10. Balance updated to $1.17
+2021-08-17T22:43:45.690150300 : User inserted 0.05. Balance updated to $1.22
+2021-08-17T22:43:45.690150300 : User inserted 0.01. Balance updated to $1.23
+2021-08-17T22:43:46.555858800 : User inserted 0.25. Balance updated to $1.48
+2021-08-17T22:43:46.555858800 : User inserted 0.10. Balance updated to $1.58
+2021-08-17T22:43:46.555858800 : User inserted 0.05. Balance updated to $1.63
+2021-08-17T22:43:46.555858800 : User inserted 0.01. Balance updated to $1.64
+2021-08-17T22:44:04.693375100 : User successfully bought Coca Cola $1.00 Change: 0.64
+2021-08-17T22:44:19.556852700 : === END OF TRANSACTION ===
+2021-08-17T22:56:08.201225700 : === START OF TRANSACTION ===
+2021-08-17T22:56:36.531861900 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T22:56:36.531861900 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T22:56:36.531861900 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T22:56:36.531861900 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T22:56:38.725922600 : User inserted 0.25. Balance updated to $0.66
+2021-08-17T22:56:38.725922600 : User inserted 0.10. Balance updated to $0.76
+2021-08-17T22:56:38.725922600 : User inserted 0.05. Balance updated to $0.81
+2021-08-17T22:56:38.725922600 : User inserted 0.01. Balance updated to $0.82
+2021-08-17T22:56:39.717080800 : User inserted 0.25. Balance updated to $1.07
+2021-08-17T22:56:39.717080800 : User inserted 0.10. Balance updated to $1.17
+2021-08-17T22:56:39.717080800 : User inserted 0.05. Balance updated to $1.22
+2021-08-17T22:56:39.717080800 : User inserted 0.01. Balance updated to $1.23
+2021-08-17T22:56:49.906850100 : User successfully bought Coca Cola $1.00 Change: 0.23
+2021-08-17T23:04:33.002026400 : === START OF TRANSACTION ===
+2021-08-17T23:06:03.761660500 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T23:06:03.761660500 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T23:06:03.761660500 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T23:06:03.761660500 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T23:06:06.060264100 : User inserted 0.25. Balance updated to $0.66
+2021-08-17T23:06:06.060264100 : User inserted 0.10. Balance updated to $0.76
+2021-08-17T23:06:06.060264100 : User inserted 0.05. Balance updated to $0.81
+2021-08-17T23:06:06.060264100 : User inserted 0.01. Balance updated to $0.82
+2021-08-17T23:06:07.808640100 : User inserted 0.25. Balance updated to $1.07
+2021-08-17T23:06:07.808640100 : User inserted 0.10. Balance updated to $1.17
+2021-08-17T23:06:07.808640100 : User inserted 0.05. Balance updated to $1.22
+2021-08-17T23:06:07.808640100 : User inserted 0.01. Balance updated to $1.23
+2021-08-17T23:06:30.720970500 : User successfully bought Orange Crush $0.85 Change: 0.38
+2021-08-17T23:06:47.216908200 : Insufficient Funds Exception: User attempted to buy Grandma JuiceBut had only balance of $ 0.55
+2021-08-17T23:07:10.990450700 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T23:07:10.990450700 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T23:07:10.990450700 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T23:07:10.990450700 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T23:07:12.203444700 : User inserted 0.25. Balance updated to $0.66
+2021-08-17T23:07:12.203444700 : User inserted 0.10. Balance updated to $0.76
+2021-08-17T23:07:12.203444700 : User inserted 0.05. Balance updated to $0.81
+2021-08-17T23:07:12.203444700 : User inserted 0.01. Balance updated to $0.82
+2021-08-17T23:07:13.188389700 : User inserted 0.25. Balance updated to $1.07
+2021-08-17T23:07:13.188389700 : User inserted 0.10. Balance updated to $1.17
+2021-08-17T23:07:13.188389700 : User inserted 0.05. Balance updated to $1.22
+2021-08-17T23:07:13.188389700 : User inserted 0.01. Balance updated to $1.23
+2021-08-17T23:07:33.958765 : User successfully bought Grandma Juice $0.55 Change: 0.68
+2021-08-17T23:08:10.003400100 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T23:08:10.003400100 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T23:08:10.003400100 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T23:08:10.003400100 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T23:08:11.867229400 : User inserted 0.25. Balance updated to $0.66
+2021-08-17T23:08:11.867229400 : User inserted 0.10. Balance updated to $0.76
+2021-08-17T23:08:11.867229400 : User inserted 0.05. Balance updated to $0.81
+2021-08-17T23:08:11.867229400 : User inserted 0.01. Balance updated to $0.82
+2021-08-17T23:08:12.854875100 : User inserted 0.25. Balance updated to $1.07
+2021-08-17T23:08:12.854875100 : User inserted 0.10. Balance updated to $1.17
+2021-08-17T23:08:12.854875100 : User inserted 0.05. Balance updated to $1.22
+2021-08-17T23:08:12.854875100 : User inserted 0.01. Balance updated to $1.23
+2021-08-17T23:08:26.788756900 : User successfully bought Grandma Juice $0.55 Change: 0.68
+2021-08-17T23:08:39.313600 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T23:08:39.313600 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T23:08:39.313600 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T23:08:39.313600 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T23:08:40.293452400 : User inserted 0.25. Balance updated to $0.66
+2021-08-17T23:08:40.293452400 : User inserted 0.10. Balance updated to $0.76
+2021-08-17T23:08:40.293452400 : User inserted 0.05. Balance updated to $0.81
+2021-08-17T23:08:40.293452400 : User inserted 0.01. Balance updated to $0.82
+2021-08-17T23:08:49.952602200 : User successfully bought Grandma Juice $0.55 Change: 0.27
+2021-08-17T23:09:39.364637300 : === END OF TRANSACTION ===
+2021-08-17T23:11:24.835050400 : === START OF TRANSACTION ===
+2021-08-17T23:11:36.264949 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T23:11:36.264949 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T23:11:36.264949 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T23:11:36.264949 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T23:11:51.604803900 : User successfully bought Grandma Juice $0.55 Change: -0.14
+2021-08-17T23:12:11.938623 : === END OF TRANSACTION ===
+2021-08-17T23:12:35.000538500 : === START OF TRANSACTION ===
+2021-08-17T23:12:45.031883900 : User inserted 0.10. Balance updated to $0.10
+2021-08-17T23:12:45.031883900 : User inserted 0.05. Balance updated to $0.15
+2021-08-17T23:12:45.031883900 : User inserted 0.01. Balance updated to $0.16
+2021-08-17T23:12:56.695455100 : Insufficient Funds Exception: User attempted to buy Coca ColaBut had only balance of $ 1.00
+2021-08-17T23:13:53.741967700 : === START OF TRANSACTION ===
+2021-08-17T23:13:59.647057500 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T23:13:59.647057500 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T23:13:59.647057500 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T23:13:59.647057500 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T23:14:02.380838600 : User inserted 0.25. Balance updated to $0.66
+2021-08-17T23:14:02.380838600 : User inserted 0.10. Balance updated to $0.76
+2021-08-17T23:14:02.380838600 : User inserted 0.05. Balance updated to $0.81
+2021-08-17T23:14:02.380838600 : User inserted 0.01. Balance updated to $0.82
+2021-08-17T23:14:04.695451500 : User inserted 0.25. Balance updated to $1.07
+2021-08-17T23:14:04.695451500 : User inserted 0.10. Balance updated to $1.17
+2021-08-17T23:14:04.695451500 : User inserted 0.05. Balance updated to $1.22
+2021-08-17T23:14:04.695451500 : User inserted 0.01. Balance updated to $1.23
+2021-08-17T23:14:22.665550200 : User successfully bought Grandma Juice $0.55 Change: 0.68
+2021-08-17T23:14:55.276126700 : === END OF TRANSACTION ===
+2021-08-17T23:15:10.860551900 : === START OF TRANSACTION ===
+2021-08-17T23:15:26.312899100 : User inserted 0.25. Balance updated to $0.25
+2021-08-17T23:15:26.313901500 : User inserted 0.10. Balance updated to $0.35
+2021-08-17T23:15:26.313901500 : User inserted 0.05. Balance updated to $0.40
+2021-08-17T23:15:26.314901400 : User inserted 0.01. Balance updated to $0.41
+2021-08-17T23:15:28.280042300 : User inserted 0.25. Balance updated to $0.66
+2021-08-17T23:15:28.280042300 : User inserted 0.10. Balance updated to $0.76
+2021-08-17T23:15:28.281048200 : User inserted 0.05. Balance updated to $0.81
+2021-08-17T23:15:28.281048200 : User inserted 0.01. Balance updated to $0.82
+2021-08-17T23:15:30.347114300 : User inserted 0.25. Balance updated to $1.07
+2021-08-17T23:15:30.347114300 : User inserted 0.10. Balance updated to $1.17
+2021-08-17T23:15:30.348104600 : User inserted 0.05. Balance updated to $1.22
+2021-08-17T23:15:30.348104600 : User inserted 0.01. Balance updated to $1.23
+2021-08-17T23:15:42.345500 : User successfully bought Coca Cola $1.00 Change: 0.23
+2021-08-17T23:16:40.726154900 : === END OF TRANSACTION ===
+2021-08-18T00:27:11.804465700 : === START OF TRANSACTION ===
+2021-08-18T00:27:19.578219400 : User inserted 0.25. Balance updated to $0.25
+2021-08-18T00:40:45.601898 : User inserted 0.10. Balance updated to $0.35
+2021-08-18T00:40:47.681321900 : User inserted 0.05. Balance updated to $0.40
+2021-08-18T00:40:51.532589800 : User inserted 0.01. Balance updated to $0.41
+2021-08-18T00:40:56.579792500 : User inserted 0.25. Balance updated to $0.66
+2021-08-18T00:52:39.430061600 : === START OF TRANSACTION ===
+2021-08-18T00:52:46.876725400 : User inserted 2.00. Balance updated to $2.00
+2021-08-18T00:52:57.372952200 : User inserted 0.25. Balance updated to $2.25
+2021-08-18T00:53:13.242934500 : User successfully bought Coca Cola $1.00 Change: 1.25
+2021-08-18T00:53:26.141309800 : === END OF TRANSACTION ===
+2021-08-18T01:07:52.595711400 : === START OF TRANSACTION ===
+2021-08-18T01:08:14.239936600 : User inserted 2.00. Balance updated to $2.00
+2021-08-18T01:08:30.584366200 : User successfully bought Coca Cola $1.00 Change: 1.00
+2021-08-18T01:08:37.020133900 : === END OF TRANSACTION ===
+2021-08-18T01:10:12.226358800 : === START OF TRANSACTION ===
+2021-08-18T01:10:17.840525200 : User inserted 2.00. Balance updated to $2.00
+2021-08-18T01:10:28.287124800 : No Item Inventory Exception: Item select Grandma Juice Out of Stock
+2021-08-18T01:10:44.117255900 : User successfully bought Root Beer $0.79 Change: 1.21
+2021-08-18T01:11:19.458343200 : === END OF TRANSACTION ===
+2021-08-18T02:38:56.228402700 : === START OF TRANSACTION ===
+2021-08-18T02:39:41.597971300 : User inserted 2.00. Balance updated to $2.00
+2021-08-18T02:40:01.705825300 : No Item Inventory Exception: Item select Grandma Juice Out of Stock
+2021-08-18T02:40:10.667419600 : User successfully bought Coca Cola $1.00 Change: 1.00
+2021-08-18T02:40:20.496106100 : === END OF TRANSACTION ===
+2021-08-18T13:27:21.786837900 : === START OF TRANSACTION ===
+2021-08-18T13:27:50.459786800 : User inserted 2.00. Balance updated to $2.00
+2021-08-18T13:28:01.546959800 : No Item Inventory Exception: Item select Grandma Juice Out of Stock
+2021-08-18T13:28:12.138755800 : User successfully bought Coca Cola $1.00 Change: 1.00
+2021-08-18T13:28:18.323297600 : === END OF TRANSACTION ===
+2021-08-18T13:34:18.933484 : === START OF TRANSACTION ===
+2021-08-18T13:35:40.133128 : User inserted 2.00. Balance updated to $2.00
+2021-08-18T13:36:01.438743600 : No Item Inventory Exception: Item select Grandma Juice Out of Stock
+2021-08-18T13:36:43.413787500 : === END OF TRANSACTION ===
+2021-08-18T13:37:00.259825400 : === START OF TRANSACTION ===
+2021-08-18T13:37:08.048986500 : User inserted 2.00. Balance updated to $2.00
+2021-08-18T13:37:19.055367500 : User successfully bought Root Beer $0.79 Change: 1.21
+2021-08-18T13:37:37.086683200 : === END OF TRANSACTION ===
+2021-08-18T13:37:50.119601400 : === START OF TRANSACTION ===
+2021-08-18T13:37:57.706962800 : User inserted 1.00. Balance updated to $1.00
+2021-08-18T13:38:03.677634800 : User inserted 0.25. Balance updated to $1.25
+2021-08-18T13:38:08.786646300 : User inserted 2.00. Balance updated to $3.25
+2021-08-18T13:38:46.014838400 : === END OF TRANSACTION ===
+2021-08-18T13:38:52.097752500 : === START OF TRANSACTION ===
+2021-08-18T13:39:04.994975900 : User inserted 1.00. Balance updated to $1.00
+2021-08-18T13:39:09.880937200 : User inserted 0.25. Balance updated to $1.25
+2021-08-18T13:39:13.253290100 : User inserted 0.10. Balance updated to $1.35
+2021-08-18T13:39:14.983618900 : User inserted 0.10. Balance updated to $1.45
+2021-08-18T13:39:40.021852400 : User successfully bought Coca Cola $1.00 Change: 0.45
+2021-08-18T13:47:04.505223800 : === START OF TRANSACTION ===
+2021-08-18T13:47:22.292568300 : Insufficient Funds Exception: User attempted to buy Orange CrushBut had only balance of $ 0.85
+2021-08-18T13:48:50.358993500 : === START OF TRANSACTION ===
+2021-08-18T13:49:01.649980200 : Insufficient Funds Exception: User attempted to buy Orange CrushBut had only balance of $ 0.85
+2021-08-18T13:49:59.383148900 : Insufficient Funds Exception: User attempted to buy Orange CrushBut had only balance of $ 0.85
+2021-08-18T14:04:38.233477200 : === END OF TRANSACTION ===
+2021-08-19T17:44:06.751223100 : === START OF TRANSACTION ===
+2021-08-19T17:49:21.581916 : No Item Inventory Exception: Item select Coca Cola Out of Stock
+2021-08-19T17:49:58.790723800 : No Item Inventory Exception: Item select Grandma Juice Out of Stock
+2021-08-19T18:02:54.095618400 : === END OF TRANSACTION ===
+2021-08-22T10:30:43.154286800 : === START OF TRANSACTION ===
+2021-08-22T10:31:21.712882800 : User inserted 2.00. Balance updated to $2.00
+2021-08-22T10:31:46.480164900 : No Item Inventory Exception: Item select Grandma Juice Out of Stock
+2021-08-22T10:32:00.259957300 : No Item Inventory Exception: Item select Coca Cola Out of Stock
+2021-08-22T10:32:17.026892200 : User successfully bought Orange Crush $0.85 Change: 1.15
+2021-08-22T10:32:30.968560400 : === END OF TRANSACTION ===
